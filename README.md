@@ -4,7 +4,7 @@
 
 Simple CRUD APIs to do CRUD operations in Node.js using Express framework and MongoDB.
 
-## Prereqisite
+## Prerequisite
 
 - Node v10+
 - NPM v6+
